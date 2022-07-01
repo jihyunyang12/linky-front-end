@@ -1,3 +1,7 @@
-.link-item{
-    list-style: none;
+.link-item {
+  list-style: none;
+  margin: 1rem;
+  min-width: 50rem;
+  display: flex;
+  justify-content: center;
 }

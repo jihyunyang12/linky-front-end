@@ -1,5 +1,7 @@
 .tag-list{
     display: flex;
+    justify-content: start;
     flex-direction: row;
     column-gap: 1rem;
+    padding: 0;
 }
